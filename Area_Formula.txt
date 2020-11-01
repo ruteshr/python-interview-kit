@@ -1,0 +1,25 @@
+>>>>>>>>>>>>>>>>>>>AREA<<<<<<<<<<<<<<<<<<<<<
+
+1) Triangle = (1/2)*(b*h)
+
+2) Rectangle = (w*h)
+
+3) Trapezoid = (1/2)(a+b)*h
+
+4) Ellipse = (3.14 *a*b)
+
+5) Square = (a*a)
+
+6) Parallelogram = (b*h)
+
+7) Circle = (a**2)*3.14
+
+8) Sector = (1/2)*((r**2)*teta)
+
+>>>>>>>>>>>>>>>>>>>CIRCUMFERANCE<<<<<<<<<<<<<<<<<<<<<
+
+1)Circle = 2*3.14*r
+
+2) Square = 4*a
+
+3) Rectangle = 2*(l+w)
