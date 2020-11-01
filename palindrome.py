@@ -26,4 +26,7 @@ if(check==num):
     print("pallindrome")
 else:
   print("not a pallindrome")
-")
+'''
+OUTPUT
+    pallindrome
+'''
