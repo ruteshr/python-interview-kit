@@ -1,5 +1,5 @@
 #DECIMAL TO HEXADECIMAL
-def dectobin(dec):
+def dectohex(dec):
   if(dec>1):
     dectobin(dec//16)
   dec=dec%16
@@ -18,8 +18,9 @@ def dectobin(dec):
   else:
     s=dec
   print(s,end="")
-dectobin(26)
+dectohex(26)
 '''
 OUTPUT
   1A
 '''
+
