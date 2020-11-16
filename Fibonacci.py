@@ -9,8 +9,8 @@ def fibonacci(n):
   else:
     return fibonacci(n-1)+fibonacci(n-2)
 n=9
-for i in range(n+1):
-  print(fibonacci(n))
+for i in range(1,n+1):
+  print(fibonacci(i))
 '''
 OUTPUT
   0 1 1 2 3 4 8 13 21
